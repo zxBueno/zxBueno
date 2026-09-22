@@ -10,7 +10,7 @@
 
  🚀 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em tecnologia, desenvolvimento de sistemas e resolução de problemas.
+Sou formado em Análise e Desenvolvimento de Sistemas, com foco em tecnologia, desenvolvimento de sistemas e resolução de problemas.
 
 Tenho experiência com projetos acadêmicos, desenvolvendo aplicações web e aplicando lógica de programação. Sou entusista de HTML e CSS, e pretendo me tornar um desenvolvedor Full-Stack
 
@@ -88,7 +88,9 @@ Tenho experiência com projetos acadêmicos, desenvolvendo aplicações web e ap
 📌 🌐 Desenvolvimento Web (HTML e CSS)
 - Criação de páginas responsivas  
 - Estruturação de layouts  
-- Boas práticas de design e usabilidade  
+- Boas práticas de design e usabilidade
+
+  
 
 ---
 
