@@ -56,10 +56,8 @@ Tenho experiência com projetos acadêmicos, desenvolvendo aplicações web e ap
 
  📊 Estatísticas
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorzl-dev&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorzl-dev&layout=compact&theme=tokyonight" />
-</p>
+[![Estatísticas do GitHub](https://vercel.app)](https://github.com/zxBueno/github-readme-stats)
+ 
 
 ---
 
